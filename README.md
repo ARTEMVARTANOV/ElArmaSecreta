@@ -7,10 +7,15 @@
 
   
 - INTEGRANTES
+  
   - Héctor García Rincón
   - Diego Alonso Arceiz
   - Mario López Díaz
   - Nacho Gutiérrez Sánchez
   - Carlos Mantilla Mateos
+
+
     
 - INTRUCCIONES DE TRABAJO
+
+  El lenguaje de programación en el que se elaborará el proyecto será Java, por lo que para poder ejecutarlo y modificarlo se recomienda utilizar la aplicación de Eclipse (Java).
