@@ -1,4 +1,4 @@
-# PROYECTO GPS "ElArmaSecreta"
+# PROYECTO GPS "MUS, ElArmaSecreta"
 
 - DESCRIPCIÓN DEL PROYECTO
   
